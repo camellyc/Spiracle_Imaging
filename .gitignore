@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / cloud sync
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Environments
+.venv/
+venv/
+env/
